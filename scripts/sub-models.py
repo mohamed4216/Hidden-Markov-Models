@@ -744,9 +744,6 @@ def run(_store):
 
 	# TODO: Implement spotter performance evaluation over all frames (based on eval_spotted_segs and eval_segs)
 
-__author__ = "Martin Freund"
-__email__ = "freund@fim.uni-passau.de"
-__copyright__ = "Copyright 2015, ACTLab"
 
 if __name__ == "__main__":
 	random.seed(0)  # Force determinism to get predictable results

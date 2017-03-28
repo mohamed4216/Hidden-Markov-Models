@@ -176,9 +176,6 @@ def test():
 	finally:
 		store.close()
 
-__author__ = "Martin Freund"
-__email__ = "freund@fim.uni-passau.de"
-__copyright__ = "Copyright 2015, ACTLab"
 
 if __name__ == "__main__":
 	test()

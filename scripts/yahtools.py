@@ -398,6 +398,3 @@ def from_sequence_make_segments(_decoded, _model_to_label):
 	return dfs
 
 
-__author__ = "Martin Freund"
-__email__ = "freund@fim.uni-passau.de"
-__copyright__ = "Copyright 2015, ACTLab"
